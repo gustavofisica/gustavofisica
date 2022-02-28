@@ -1,8 +1,8 @@
 ## Olá, pessoas...
 
 - 🔭 Hoje eu trabalho no Centro de Microscopia Eletrônica da UFPR.
+- 🤖 Faço Pós-Graduação em Inteligência Artificial Aplicada na UFPR.
 - 🌱 Estou aprendendo muito Python e Django.
-- 🤔 Procuro ajuda com um projeto em Django para o meu departamento.
 - 💬 Você pode me perguntar sobre muitos assuntos: Física, Robótica, Arduino, Python, Django, Educação e outros (adoro trocar ideias sobre tudo!)
 - ⚡ Curiosidades: Como seria um robô que ensina física? 🤔
 
