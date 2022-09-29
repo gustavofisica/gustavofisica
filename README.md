@@ -16,7 +16,7 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gustavo-R" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r.svg](https://www.r-project.org/logo/Rlogo.svg)">
+  <img align="center" alt="Gustavo-R" height="30" width="40" src="https://www.r-project.org/logo/Rlogo.svg">
   <img align="center" alt="Gustavo-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Gustavo-Raspberry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
   <img align="right" alt="GIF-Foguete" height="120" width="120" src="https://c.tenor.com/x-HMKdm4KAoAAAAd/foguete-ponto-focal-foguete.gif">
